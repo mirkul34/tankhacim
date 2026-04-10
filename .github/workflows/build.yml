@@ -1,0 +1,20 @@
+name: Build EXE
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install "kivy[base]" pyinstaller
+      - run: pyinstaller --onefile --windowed --name TankHacim --add-data "tank_data.json;." --add-data "custom_tanks.json;." main.py
+        shell: cmd
+      - uses: actions/upload-artifact@v4
+        with:
+          name: TankHacim-exe
+          path: dist/TankHacim.exe
