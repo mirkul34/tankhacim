@@ -1,0 +1,330 @@
+{
+  "document": {
+    "list_no": "HA-05",
+    "ship_no": "TS1691",
+    "ship_name": "YASA ILHAN",
+    "title": "TANK CALIBRATION (MACHINERY PART)",
+    "drawing_no": "1DZGG21",
+    "builder": "MITSUI ENGINEERING & SHIPBUILDING CO., LTD. - TAMANO WORKS",
+    "date": "22 Feb 2007"
+  },
+  "fuel_oil_tanks": {
+    "specific_gravity": 0.950,
+    "tanks": [
+      {
+        "name": "NO.4 BTM. F.O.TK.",
+        "location": "P",
+        "frame_no": "65 - 99",
+        "capacity_100_percent_m3": 387.2,
+        "capacity_96_percent_m3": 371.7,
+        "alarm_overflow": null,
+        "weight_96_alarm_mtons": 353.1,
+        "center_of_gravity_mid_g_m": 21.45,
+        "center_of_gravity_kg_m": 0.81,
+        "max_free_surface_mt_m4": 1190
+      },
+      {
+        "name": "NO.4 BTM. F.O.TK.",
+        "location": "S",
+        "frame_no": "65 - 99",
+        "capacity_100_percent_m3": 386.5,
+        "capacity_96_percent_m3": 371.0,
+        "alarm_overflow": null,
+        "weight_96_alarm_mtons": 352.5,
+        "center_of_gravity_mid_g_m": 21.43,
+        "center_of_gravity_kg_m": 0.81,
+        "max_free_surface_mt_m4": 1183
+      },
+      {
+        "name": "NO.5 BTM. F.O.TK.",
+        "location": "C",
+        "frame_no": "30 - 65",
+        "capacity_100_percent_m3": 514.6,
+        "capacity_96_percent_m3": 494.0,
+        "alarm_overflow": null,
+        "weight_96_alarm_mtons": 469.3,
+        "center_of_gravity_mid_g_m": 47.63,
+        "center_of_gravity_kg_m": 0.81,
+        "max_free_surface_mt_m4": 4649
+      },
+      {
+        "name": "DEEP FUEL OIL TANK",
+        "location": "P",
+        "frame_no": "15 - 31",
+        "capacity_100_percent_m3": 692.7,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": 665.0,
+        "weight_96_alarm_mtons": 631.8,
+        "center_of_gravity_mid_g_m": 72.17,
+        "center_of_gravity_kg_m": 12.96,
+        "max_free_surface_mt_m4": 203,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "DEEP FUEL OIL TANK",
+        "location": "S",
+        "frame_no": "15 - 31",
+        "capacity_100_percent_m3": 384.6,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": 369.2,
+        "weight_96_alarm_mtons": 350.7,
+        "center_of_gravity_mid_g_m": 71.51,
+        "center_of_gravity_kg_m": 11.65,
+        "max_free_surface_mt_m4": 160,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "H.F.O.SETT.TANK",
+        "location": "S",
+        "frame_no": "27 - 30",
+        "capacity_100_percent_m3": 33.3,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": 29.0,
+        "weight_96_alarm_mtons": 27.6,
+        "center_of_gravity_mid_g_m": 68.46,
+        "center_of_gravity_kg_m": 10.57,
+        "max_free_surface_mt_m4": 4,
+        "alarm_overflow_note": "** at overflow level"
+      },
+      {
+        "name": "H.F.O.SERV.TANK",
+        "location": "S",
+        "frame_no": "24 - 27",
+        "capacity_100_percent_m3": 33.3,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": 30.3,
+        "weight_96_alarm_mtons": 28.8,
+        "center_of_gravity_mid_g_m": 70.98,
+        "center_of_gravity_kg_m": 10.67,
+        "max_free_surface_mt_m4": 4,
+        "alarm_overflow_note": "** at overflow level"
+      },
+      {
+        "name": "F.O.OVERFLOW TK.",
+        "location": "S",
+        "frame_no": "27 - 31",
+        "capacity_100_percent_m3": 22.5,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": 3.6,
+        "weight_96_alarm_mtons": 3.4,
+        "center_of_gravity_mid_g_m": 67.85,
+        "center_of_gravity_kg_m": 0.27,
+        "max_free_surface_mt_m4": 29,
+        "alarm_overflow_note": "* at high level alarm"
+      }
+    ],
+    "total_capacity_100_percent_m3": 2432.2,
+    "total_weight_mtons": 2213.8
+  },
+  "diesel_oil_tanks": {
+    "specific_gravity": 0.880,
+    "tanks": [
+      {
+        "name": "D.O.TK.",
+        "location": "S",
+        "frame_no": "19 - 27",
+        "capacity_100_percent_m3": 166.5,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": 156.5,
+        "weight_96_alarm_mtons": 137.7,
+        "center_of_gravity_mid_g_m": 72.99,
+        "center_of_gravity_kg_m": 15.75,
+        "max_free_surface_mt_m4": 100,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "L.S.D.O.TK.",
+        "location": "S",
+        "frame_no": "17 - 19",
+        "capacity_100_percent_m3": 34.2,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": 32.5,
+        "weight_96_alarm_mtons": 28.6,
+        "center_of_gravity_mid_g_m": 77.26,
+        "center_of_gravity_kg_m": 15.72,
+        "max_free_surface_mt_m4": 12,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "D.O.SERV.TK.",
+        "location": "S",
+        "frame_no": "15 - 17",
+        "capacity_100_percent_m3": 21.5,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": 19.6,
+        "weight_96_alarm_mtons": 17.2,
+        "center_of_gravity_mid_g_m": 78.94,
+        "center_of_gravity_kg_m": 15.06,
+        "max_free_surface_mt_m4": 8,
+        "alarm_overflow_note": "** at overflow level"
+      }
+    ],
+    "total_capacity_100_percent_m3": 222.2,
+    "total_weight_mtons": 183.5
+  },
+  "lub_oil_tanks": {
+    "specific_gravity": 0.900,
+    "tanks": [
+      {
+        "name": "M/E L.O.SUMP.TK.",
+        "location": "C",
+        "frame_no": "15 - 25",
+        "capacity_100_percent_m3": 17.8,
+        "capacity_96_percent_m3": 17.1,
+        "alarm_overflow": null,
+        "weight_96_alarm_mtons": 15.4,
+        "center_of_gravity_mid_g_m": 76.05,
+        "center_of_gravity_kg_m": 1.14,
+        "max_free_surface_mt_m4": 8
+      },
+      {
+        "name": "M/E L.O.SETT.TK.",
+        "location": "S",
+        "frame_no": "21 - 23",
+        "capacity_100_percent_m3": 17.1,
+        "capacity_96_percent_m3": 16.4,
+        "alarm_overflow": null,
+        "weight_96_alarm_mtons": 14.8,
+        "center_of_gravity_mid_g_m": 73.92,
+        "center_of_gravity_kg_m": 15.42,
+        "max_free_surface_mt_m4": 2
+      },
+      {
+        "name": "M/E L.O.STOR.TK.",
+        "location": "S",
+        "frame_no": "19 - 21",
+        "capacity_100_percent_m3": 17.1,
+        "capacity_96_percent_m3": 16.4,
+        "alarm_overflow": null,
+        "weight_96_alarm_mtons": 14.8,
+        "center_of_gravity_mid_g_m": 75.60,
+        "center_of_gravity_kg_m": 15.42,
+        "max_free_surface_mt_m4": 2
+      },
+      {
+        "name": "CYL.O.STOR.TK.",
+        "location": "S",
+        "frame_no": "23 - 29",
+        "capacity_100_percent_m3": 51.3,
+        "capacity_96_percent_m3": 49.2,
+        "alarm_overflow": null,
+        "weight_96_alarm_mtons": 44.3,
+        "center_of_gravity_mid_g_m": 70.56,
+        "center_of_gravity_kg_m": 15.42,
+        "max_free_surface_mt_m4": 7
+      }
+    ],
+    "total_capacity_100_percent_m3": 103.3,
+    "total_capacity_96_percent_m3": 99.1,
+    "total_weight_mtons": 89.3
+  },
+  "other_tanks": {
+    "tanks": [
+      {
+        "name": "WASTE OIL TK.",
+        "location": "P",
+        "frame_no": "22 - 27",
+        "capacity_100_percent_m3": 20.5,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": null,
+        "weight_100_alarm_mtons": 17.5,
+        "center_of_gravity_mid_g_m": 71.61,
+        "center_of_gravity_kg_m": 1.12,
+        "max_free_surface_mt_m4": 20,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "STUFF.BOX L.O.DRAIN TK.",
+        "location": "P",
+        "frame_no": "19 - 22",
+        "capacity_100_percent_m3": 6.7,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": null,
+        "weight_100_alarm_mtons": 5.6,
+        "center_of_gravity_mid_g_m": 75.05,
+        "center_of_gravity_kg_m": 1.21,
+        "max_free_surface_mt_m4": 3,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "BILGE TK.",
+        "location": "P",
+        "frame_no": "27 - 31",
+        "capacity_100_percent_m3": 28.8,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": null,
+        "weight_100_alarm_mtons": 26.7,
+        "center_of_gravity_mid_g_m": 68.26,
+        "center_of_gravity_kg_m": 0.92,
+        "max_free_surface_mt_m4": 67,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "S/T L.O.DRAIN TK.",
+        "location": "S",
+        "frame_no": "13 - 14",
+        "capacity_100_percent_m3": 1.2,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": null,
+        "weight_100_alarm_mtons": 0.9,
+        "center_of_gravity_mid_g_m": 81.05,
+        "center_of_gravity_kg_m": 1.53,
+        "max_free_surface_mt_m4": 1,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "F.O.SLUDGE TK.",
+        "location": "S",
+        "frame_no": "24.5 - 25.5",
+        "capacity_100_percent_m3": 1.2,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": null,
+        "weight_100_alarm_mtons": 1.0,
+        "center_of_gravity_mid_g_m": 70.55,
+        "center_of_gravity_kg_m": 6.05,
+        "max_free_surface_mt_m4": null,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "L.O.SLUDGE TK.",
+        "location": "S",
+        "frame_no": "25.5 - 26.5",
+        "capacity_100_percent_m3": 1.2,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": null,
+        "weight_100_alarm_mtons": 1.0,
+        "center_of_gravity_mid_g_m": 71.51,
+        "center_of_gravity_kg_m": 6.05,
+        "max_free_surface_mt_m4": null,
+        "alarm_overflow_note": "* at high level alarm"
+      },
+      {
+        "name": "COOLING W.TK.",
+        "location": "C",
+        "frame_no": "7 - 10",
+        "capacity_100_percent_m3": 24.9,
+        "capacity_96_percent_m3": null,
+        "alarm_overflow": null,
+        "weight_100_alarm_mtons": null,
+        "center_of_gravity_mid_g_m": 84.85,
+        "center_of_gravity_kg_m": 5.62,
+        "max_free_surface_mt_m4": 24
+      }
+    ]
+  },
+  "notes": {
+    "alarm_symbols": {
+      "*": "at high level alarm",
+      "**": "at overflow level"
+    }
+  },
+  "summary": {
+    "total_tanks": 26,
+    "categories": [
+      "FUEL OIL TANKS (8 tanks)",
+      "DIESEL OIL TANKS (3 tanks)",
+      "LUB.OIL TANKS (4 tanks)",
+      "OTHER TANKS (7 tanks)"
+    ]
+  }
+}
